@@ -18,8 +18,5 @@ Repo to document Frequently ask questions for Zwift Newbs
 * Using Apple TV Bluetooth (Cos coulnt get Companion app to be visible)
 * Doing Spindown test in Zwift App was timing out , so moved the Apple TV nearer the Kickr 
 
-## 4/11/2018 - Zwift Companion App not connecting to Zwift Apple Tv 
-
-* Can't find a way of switching to Companion App on the pairing screen. 
 
 
