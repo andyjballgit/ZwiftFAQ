@@ -9,13 +9,35 @@ Repo to document Frequently ask questions for Zwift Newbs
 * But Figured that can do by pairing up and then trying to pair a 3rd device (Cadence Sensor in my case) and then get prompted to switch to using Companion App
 
 ## Useful Links
+* Is Zwift Down / having issues / having issues connecting to Zwift 
+  check https://status.zwift.com/
+
 
 ## Issues 
 
+### 9/11/2018 - Apple TV
+* Paused ride to go for a pee
+* Broke ERG Mode 
+* Tried 
+    - Reboot of Wahoo
+    - PAiring to Companion app 
+    - Repairing 
+    - restart zwift 
+    - Tried to do spindown from Zwift , failed right at end / timed out 
+    -  Switching out of Erg mode / resistane / back to erg 
+    - De paired from Zwift 
+    - Did spindown from Wahoo utility , succeeded 
+    - Rebooted Apple tv and Kickr . Did mini test ok
+
+### 9/11/2018 - Apple TV
+* Riders disapeared - weak wifi 
+
+
 ### 5/11/2018 - Apple Tv 
 
-#### Issue with Heart Dropping to 0 then 75 then gradually back up 
-* Update 6/11/2018 Not even picing up on Wahoo fitness app, think its broke / Batt flat
+#### Issue with Heart Dropping to 0 then 75 then gradually back up and sometimes slow to pair
+* Update 6/11/2018 Not even picing up on Wahoo fitness app, think its broke / Batt flatt. 
+* Update 6/11/2018 New battery , paired straight away on Wahoo fitness app and Zwift Apple Tv. To be confirmed
 
 
 ### 5/11/2018 - Companion App - Watts go to 0 / completely lose connection 
